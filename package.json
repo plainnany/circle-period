@@ -23,5 +23,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://plainnany.github.io/circle-period"
+  "homepage": "https://plainnany.github.io/circle-period",
+  "predeploy": "yarn build",
+  "deploy": "gh-pages -d build"
 }
