@@ -1,13 +1,13 @@
 {
-  "main.css": "/circle-period/static/css/main.18e279dc.chunk.css",
-  "main.js": "/circle-period/static/js/main.0704c753.chunk.js",
-  "main.js.map": "/circle-period/static/js/main.0704c753.chunk.js.map",
-  "static/js/1.2bd084c3.chunk.js": "/circle-period/static/js/1.2bd084c3.chunk.js",
-  "static/js/1.2bd084c3.chunk.js.map": "/circle-period/static/js/1.2bd084c3.chunk.js.map",
-  "runtime~main.js": "/circle-period/static/js/runtime~main.da6953ff.js",
-  "runtime~main.js.map": "/circle-period/static/js/runtime~main.da6953ff.js.map",
-  "static/css/main.18e279dc.chunk.css.map": "/circle-period/static/css/main.18e279dc.chunk.css.map",
-  "index.html": "/circle-period/index.html",
-  "precache-manifest.ac0f6d9b6192dfb905a5f82f0c6f6514.js": "/circle-period/precache-manifest.ac0f6d9b6192dfb905a5f82f0c6f6514.js",
-  "service-worker.js": "/circle-period/service-worker.js"
+  "main.css": "./static/css/main.18e279dc.chunk.css",
+  "main.js": "./static/js/main.0704c753.chunk.js",
+  "main.js.map": "./static/js/main.0704c753.chunk.js.map",
+  "static/js/1.2bd084c3.chunk.js": "./static/js/1.2bd084c3.chunk.js",
+  "static/js/1.2bd084c3.chunk.js.map": "./static/js/1.2bd084c3.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.18e279dc.chunk.css.map": "./static/css/main.18e279dc.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.ed2051569987d96ef79bc89af74e393f.js": "./precache-manifest.ed2051569987d96ef79bc89af74e393f.js",
+  "service-worker.js": "./service-worker.js"
 }
