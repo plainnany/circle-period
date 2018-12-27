@@ -1,4 +1,4 @@
-export const myDate = [{
+export const date1 = [{
   month: '2013/11',
   date: 8
 }, {
@@ -111,4 +111,75 @@ export const date2 = [{
 }, {
   month: '2016/12',
   date: 26
+}, {
+  month: '2017/1',
+  date: 31
+}, {
+  month: '2017/3',
+  date: 1
+}, {
+  month: '2017/4',
+  date: 6
+}, {
+  month: '2017/5',
+  date: 8
+}, {
+  month: '2017/6',
+  date: 10
+}, {
+  month: '2017/7',
+  date: 10
+}, {
+  month: '2017/8',
+  date: 10
+}, {
+  month: '2017/9',
+  date: 10
+}, {
+  month: '2017/10',
+  date: 12
+}, {
+  month: '2017/11',
+  date: 10
+}, {
+  month: '2017/12',
+  date: 9
+}]
+
+export const date3 = [{
+  month: '2018/1',
+  date: 14
+}, {
+  month: '2018/2',
+  date: 13
+}, {
+  month: '2018/3',
+  date: 17
+}, {
+  month: '2018/4',
+  date: 18
+}, {
+  month: '2018/5',
+  date: 18
+}, {
+  month: '2018/6',
+  date: 18
+}, {
+  month: '2018/7',
+  date: 19
+}, {
+  month: '2018/8',
+  date: 19
+}, {
+  month: '2018/9',
+  date: 20
+}, {
+  month: '2018/10',
+  date: 23
+}, {
+  month: '2018/11',
+  date: 21
+}, {
+  month: '2018/12',
+  date: 23
 }]
