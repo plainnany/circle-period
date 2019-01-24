@@ -182,4 +182,7 @@ export const date3 = [{
 }, {
   month: '2018/12',
   date: 23
+}, {
+  month: '2019/1',
+  date: 24
 }]
