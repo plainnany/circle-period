@@ -200,4 +200,10 @@ export const date3 = [{
 }, {
   month: '2019/7',
   date: '7'
+}, {
+  month: '2019/8',
+  date: '7'
+}, {
+  month: '2019/9',
+  date: '8'
 }]
